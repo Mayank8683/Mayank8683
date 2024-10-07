@@ -11,7 +11,7 @@
   <a href="mailto:khandelwalmayank.k@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a> 
-  <a href="www.linkedin.com/in/khandelwalmayank04" target="_blank">
+  <a href="https://www.linkedin.com/in/mayankkhandelwal14042000/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -27,7 +27,7 @@ I’m diving into Node.js, expanding my backend development skills and building 
 Open to collaborating on web development projects—let's create something amazing together!
 
 **📫 Connect with Me**<br/>
-Feel free to reach out at khandelwalmayank.k@gmail.com or connect with me on <a href="www.linkedin.com/in/khandelwalmayank04" title="LinkedIn Profile"><img width="30" src="https://img.icons8.com/fluency/48/000000/linkedin.png"> LinkedIn.</a>
+Feel free to reach out at khandelwalmayank.k@gmail.com or connect with me on <a href="https://www.linkedin.com/in/mayankkhandelwal14042000/" title="LinkedIn Profile"><img width="30" src="https://img.icons8.com/fluency/48/000000/linkedin.png"> LinkedIn.</a>
 
 **🚀 Portfolio Link**
 - *My Portfolio* :- https://mayank8683.github.io/
